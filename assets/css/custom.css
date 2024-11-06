@@ -1,0 +1,11 @@
+.card-img-container img {
+    height: auto;
+    width: 100%;
+    max-width: 150px; /* Ukuran maksimum gambar */
+    max-height: 200px; /* Atur tinggi maksimum */
+    object-fit: cover; /* Pastikan gambar tetap dalam proporsi yang benar */
+    margin: 0 auto; /* Membuat gambar rata tengah */
+    display: block;
+  }
+  
+  
